@@ -1,3 +1,4 @@
+![Uploading FFD29ED1-6230-4E98-A93D-63CC32945C0A.png…]()
 ---
 title: "Edit the Doc Site"
 path: "/programs/edit-the-doc-site.html"
